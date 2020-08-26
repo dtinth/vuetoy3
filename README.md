@@ -4,6 +4,7 @@
 It does not require any build tool or development server.
 Ideal for building side-projects, where you:
 
+- want to use Vue 3 and its Composition API
 - want multiple routes (it comes with Vue Router)
 - prefer not to use any build tool
 - don’t need to support older browsers
